@@ -1,6 +1,7 @@
-[English](./README.md) | [中文](./README_CN.md)
 
-# memory-distiller 🧠
+# openclaw-memory-distiller 🧠
+
+[English](./README.md) | [中文](./README_CN.md)
 
 **OpenClaw's subconscious — the agent that learns from every session.**
 
@@ -54,7 +55,7 @@ npx clawhub@latest install memory-distiller
 
 ## Design Philosophy
 
-Inspired by [Claudeception](https://github.com/disler/claudeception), rebuilt for OpenClaw's architecture.
+Inspired by [Claudeception](https://github.com/blader/Claudeception), rebuilt for OpenClaw's architecture.
 
 > An agent should never be tripped up by the same problem twice.
 
