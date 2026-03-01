@@ -1,4 +1,4 @@
-# memory-distiller 🧠
+# openclaw-memory-distiller 🧠
 
 **OpenClaw's subconscious — the agent that learns from every session.**
 
